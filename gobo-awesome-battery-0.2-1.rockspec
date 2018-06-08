@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "gobo-awesome-battery"
-version = "0.1-1"
+version = "0.2-1"
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.2-1",
   url = "git://github.com/LuaDist-testing/gobo-awesome-battery.git"
 }
 -- Original source
 -- source = {
 --    url = "git+https://github.com/gobolinux/gobo-awesome-battery.git",
---    tag = "0.1",
+--    tag = "0.2"
 -- }
 description = {
    summary = "A battery widget for Awesome WM.",
